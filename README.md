@@ -26,6 +26,7 @@ The base structure I use for my GitHub projects.
 ┣━ src                              Source files
 ┃  ┣━ index.js                      Entry file
 ┃  ┣━ package.json                  Package metadata
+┃  ┣━ README.md                     NPM overview
 ┃  ┗━ lib                           Main files
 ┃     ┗━ core.js                    Main file
 ┗━ test                             Test scripts
